@@ -1,0 +1,20 @@
+# Default ignored files
+/shelf/
+/.gradle/
+/.idea/
+/build
+/gradle
+/target
+/gradlew
+/gradlew.bat
+/src/test/resources/app
+/test-output
+.classpath
+.project
+.settings
+.bin
+/bin
+/null
+.null
+
+
